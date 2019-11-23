@@ -1,1 +1,2 @@
-# superCoder
+## 导读
+请见Issues
